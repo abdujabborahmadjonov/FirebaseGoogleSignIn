@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "471482336653",
+    "project_id": "fir-signin-b2835",
+    "storage_bucket": "fir-signin-b2835.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471482336653:android:52dcd91bf64706ce6f69c4",
+        "android_client_info": {
+          "package_name": "dev.abdujabbor.firebasegooglesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471482336653-bri8aejo5cfd1v33e2u9q41cgftitdm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWP1EbUEfQaeAptAu60IC0vK1tPPxZ_1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471482336653-bri8aejo5cfd1v33e2u9q41cgftitdm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
